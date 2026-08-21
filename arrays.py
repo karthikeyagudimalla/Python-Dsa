@@ -1,3 +1,5 @@
+# list as an array
+
 #creating an array
 arr=[10,20,60,40]
 for i in arr:
