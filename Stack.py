@@ -21,6 +21,7 @@ class Stack:
                 case 5:
                     print("Thank You")
                     exit()
+                
         
     def push(self):
         self.value=int(input("Enter the value to push: "))
